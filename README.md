@@ -1,8 +1,14 @@
 # gpd-chromeos
 Project Directory Generator for ChromeOS
 
+
+## Prerequisites
+- On ChromeOS, install [IDE](https://chrome.google.com/webstore/detail/chrome-dev-editor/pnoffddplpippgcfjdhbmhkofpnaalpg/related "Chrome Dev Editor").
+
+
 ## Syntax
     gpd [ domain [entity [project [application]]]]
+
 
 ## Parameters
     domain        Top level domain name abbreviation.
