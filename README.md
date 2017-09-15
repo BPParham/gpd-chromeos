@@ -27,19 +27,19 @@ By default, gpd with all parameters will create a rails application in the direc
 
 Create a **website** directory structure for a company called **example.com**.
 ```
-$ ./gpd.sh com example website
+crosh> ./gpd.sh com example website
 ```
 
 Create a **food blog** rails application in a directory structure for a company called **acme.org**.
 ```
-$ ./gpd.sh org acme blog food
+crosh> ./gpd.sh org acme blog food
 ```
 
 Create a **bootstrap tutorial** rails application based on a development branch of **W3Schools**.
 ```
-$ ./gpd.sh com w3schools tutorial
-$ cd GITRepositories/com/w3schools/tutorial/branches/develop
-$ rails new learn-bootstrap
+crosh> ./gpd.sh com w3schools tutorial
+crosh> cd GITRepositories/com/w3schools/tutorial/branches/develop
+crosh> rails new learn-bootstrap
 ```
 
 
